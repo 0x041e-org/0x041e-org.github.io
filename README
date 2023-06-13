@@ -5,6 +5,10 @@ Contribution
 ------------
 Individual papers should be submitted as `./docs/pre/SHA256(author_last+year).html`, following `template.html`.
 
+Javascript
+----------
+Almost all hyperlinks are local (excluding contribution, and reporting). Javascript is used to search the `pre/` directory, but can be easily done on a local copy. With the noted exclusions, 0x041e will work perfectly fine on a local copy.
+
 Licensing
 ---------
 The source code for '0x041e.org' is licensed under the terms of GPL v3+. Authors of indexed works reserve all rights to their work.
