@@ -3,8 +3,7 @@
 
 Contribution
 ------------
-Individual papers should be submitted as SHA256(author_last+year).html, following `template.html`.
-
+Individual papers should be submitted as `./docs/pre/SHA256(author_last+year).html`, following `template.html`.
 
 Licensing
 ---------
