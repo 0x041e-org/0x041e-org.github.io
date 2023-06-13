@@ -1,0 +1,11 @@
+0x041e -- Decentralised Preprint
+================================
+
+Contribution
+------------
+Individual papers should be submitted as SHA256(author_last+year).html, following `template.html`.
+
+
+Licensing
+---------
+The source code for '0x041e.org' is licensed under the terms of GPL v3+. Authors of indexed works reserve all rights to their work.
