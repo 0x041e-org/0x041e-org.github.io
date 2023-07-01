@@ -8,18 +8,21 @@ hr {
 
 .title {
   font-style: oblique; 
-  font-size: 3em;
+  font-size: 2em;
   font-weight: bold;
   margin: 2%;
 }
 
 .author {
   margin: 2%;
+  font-size: 1.5em;
 }
 
 .abstract {
   font-style: italic;
-  margin: 5% 20% 5% 20%; 
+  font-size: 1em;
+  width: 50%;
+  margin: 2%; 
   padding: 4px; 
 }
 
