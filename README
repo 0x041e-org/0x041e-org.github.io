@@ -4,6 +4,7 @@
 Contribution
 ------------
 Individual papers should be submitted as `./docs/pre/SHA256(author_last+year).html`, following `template.html`.
+Add an entry to the 'Recent' table in `./docs/index.html`, maximum number of rows is 15.
 
 Javascript
 ----------
