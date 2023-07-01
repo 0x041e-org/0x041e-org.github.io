@@ -1,0 +1,29 @@
+body {
+  background: #F0EAD6;
+}
+
+hr {
+  color: #D9D2B6;
+}
+
+.title {
+  font-style: oblique; 
+  font-size: 3em;
+  font-weight: bold;
+  margin: 2%;
+}
+
+.author {
+  margin: 2%;
+}
+
+.abstract {
+  font-style: italic;
+  margin: 5% 20% 5% 20%; 
+  padding: 4px; 
+}
+
+/** every other row for each table */
+tr:nth-child(even) {
+  background: #DDBEA8;
+}
